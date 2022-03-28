@@ -30,6 +30,8 @@ Após o ambiente estar criado e ativo, o acesso à consola do AWS Elastic Beanst
 
 - **Tags** - Permitem categorizar os recursos da AWS de diferentes formas (por finalidade, por utilizador ou por ambiente), facilitando assim a sua rápida identificação. 
 
+### **Prós e Contras**
+
 Com uma perspetiva geral do funcionamento e finalidade do serviço Elastic Beanstalk é possível fazer uma análise dos prós e contras. 
 
 **Prós** 
