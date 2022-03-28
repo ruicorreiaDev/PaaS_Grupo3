@@ -5,7 +5,8 @@
 ![LogoAEStudio](https://futurebrandscore.com/uploads/case-studies/_heroImage/Barilla_Range.jpg)
 ### **Caso de estudo de Heroku – AE Studio**
 
-**Circunstâncias** 
+**Circunstâncias**
+
 AE Studio é uma empresa sedeada em Los Angeles que opera na área do 
 merchandise personalizado de celebridades. 
 A plataforma interativa de merchandize permite que fãs de “Vencedores de Grammys” 
@@ -14,11 +15,13 @@ impressão e envio. Graças a esta plataforma, desenvolvida e gerida com recurso
 Confiabilidade e Escalabilidade ao site o que permite dar resposta a milhões de utilizadores num período de dois dias. 
 
 **Desafio**
+
 Um músico muito famoso decide lançar um novo projeto e pretende acompanhar o lançamento com 
 merchandise personalizado, pelo que contacta a AE Studio. Não é possível definir o número de visitas e 
 o evento durará 48 horas. Tudo isto deve ser preparado em duas semanas. 
 
-**Estratégia** 
+**Estratégia**
+
 Graças à experiência com Heroku em projetos anteriores, a AE Studio sente confiança para 
 lidar com a grande escala como comenta Ed Chen, Partner e Head Scientist, “We had no idea 
 how sharp the traffic curve would be. Where Heroku really shines is that we didn’t 
