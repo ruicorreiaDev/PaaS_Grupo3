@@ -22,15 +22,13 @@ Graças à experiência com Heroku em projetos anteriores, a AE Studio sente con
 lidar com a grande escala como comenta Ed Chen, Partner e Head Scientist, “We had no idea 
 how sharp the traffic curve would be. Where Heroku really shines is that we didn’t 
 have to worry about scalability, we could just focus on building the best product”. 
-Algumas aplicações envolvidas neste projeto foram: 
-- Front-end web app; 
+Algumas aplicações envolvidas neste projeto foram:<br/>- Front-end web app; 
 - Web server; 
 - Job queue and order processing; 
 - Print schedulling. 
 
 **Resultados**
-Durante 48 horas:<br/> 
-- 4,6 milhões de visualizações; 
+Durante 48 horas:<br/>- 4,6 milhões de visualizações; 
 - Cerca de 1 milhão de visitas; 
 - Milhares de encomendas e ainda mais de receitas. 
 Durante o evento a equipa da AE Studio esteve atenta à performance da aplicação e conseguiu,
