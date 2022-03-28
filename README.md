@@ -2,7 +2,7 @@
 
 ## **Casos de Estudo**
 
-![LogoAEStudio] (https://futurebrandscore.com/uploads/case-studies/_heroImage/Barilla_Range.jpg)
+![LogoAEStudio](https://futurebrandscore.com/uploads/case-studies/_heroImage/Barilla_Range.jpg)
 ### **Caso de estudo de Heroku – AE Studio**
 
 **Circunstâncias** 
