@@ -17,12 +17,12 @@ Não exige nenhum custo adicional pelo seu uso, apenas são pagos os recursos su
 
 Após o ambiente estar criado e ativo, o acesso à consola do AWS Elastic Beanstalk fica disponível dando uma visão geral do estado da aplicação. Esta encontra-se dividida em cinco grandes tópicos que nos permitem gerir, monitorizar e receber informação crucial sobre o funcionamento da aplicação.  
 
-- Configuração - Visão geral dos recursos criados para o ambiente, podendo efetuar alterações tais como mudar o serviço de auto-scaling, tipo de instâncias do EC2, ativar e desativar notificações; 
+- **Configuração** - Visão geral dos recursos criados para o ambiente, podendo efetuar alterações tais como mudar o serviço de auto-scaling, tipo de instâncias do EC2, ativar e desativar notificações; 
 
-- Health - Mostra o estado e as informações detalhadas de integridade sobre as instâncias do Amazon EC2 que executam a aplicação; 
+- **Health** - Mostra o estado e as informações detalhadas de integridade sobre as instâncias do Amazon EC2 que executam a aplicação; 
 
-- Monitorização - Permite o acesso a estatísticas do ambiente como a latência e utilização de CPU. Pode ser usada para a criação de alarmes segundo métricas personalizadas. 
+- **Monitorização** - Permite o acesso a estatísticas do ambiente como a latência e utilização de CPU. Pode ser usada para a criação de alarmes segundo métricas personalizadas. 
 
-- Eventos – Mostra informações ou mensagens de erro dos serviços que estejam a ser utilizados no ambiente; 
+- **Eventos** – Mostra informações ou mensagens de erro dos serviços que estejam a ser utilizados no ambiente; 
 
-- Tags - Permitem categorizar os recursos da AWS de diferentes formas (por finalidade, por utilizador ou por ambiente), facilitando assim a sua rápida identificação. 
+- **Tags** - Permitem categorizar os recursos da AWS de diferentes formas (por finalidade, por utilizador ou por ambiente), facilitando assim a sua rápida identificação. 
