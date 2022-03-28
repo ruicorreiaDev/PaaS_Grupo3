@@ -3,7 +3,8 @@
 # **Resumo**
 
 ## **Introdução** <br/> 
-![PaaSEstrutura](
+![PaaSEstrutura](https://github.com/ruicorreiaDev/PaaS_Grupo3/blob/Artur/paas-platform-as-a-service.png)
+
 Um dos conceitos relacionados com serviços de computação na nuvem é PaaS (Platform as a Service), que normalmente de situa entre o IaaS (Infrastructure as a Service) e o SaaS (Software as a Service). <br/> Podemos definir PaaS como uma categoria de serviços de computação na nuvem que fornece uma plataforma para desenvolver, implementar e executar aplicações, sem o custo e complexidade de implantação e gestão das infraestruturas necessárias. <br/> Para uma melhor compreensão do conceito de PaaS, começamos por apresentar dois casos de estudo, um para a plataforma Heroku e outro para a plataforma Google App Engine. <br/> Posto isto, passamos a apresentar o serviço Elastic Beanstalk, da AWS, que pretendemos conhecer melhor por meio das definições que nos são apresentadas pelo próprio fornecedor ou por terceiros.  
 
 ## **Casos de Estudo**
