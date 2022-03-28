@@ -5,7 +5,7 @@
 ![LogoAEStudio](https://futurebrandscore.com/uploads/case-studies/_heroImage/Barilla_Range.jpg)
 ### **Caso de estudo de Heroku – AE Studio**
 
-**Circunstâncias**
+**Circunstâncias**<br/>
 AE Studio é uma empresa sedeada em Los Angeles que opera na área do 
 merchandise personalizado de celebridades. 
 A plataforma interativa de merchandize permite que fãs de “Vencedores de Grammys” 
