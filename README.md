@@ -1,4 +1,4 @@
-# **PaaS - Quase Tudo Sobre Amazon Elastic Beanstalk** <br/>## **Por Artur Poças, Daniel Silva e Rui Correia**
+# **PaaS - Quase Tudo Sobre Amazon Elastic Beanstalk** <br/> ## **Por Artur Poças, Daniel Silva e Rui Correia**
 # **Resumo**
 
 ## **Introdução** <br/> 
