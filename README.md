@@ -41,7 +41,6 @@ para os seus clientes Best Apps e também para a celebridade parceira.
 A título de curiosidade, a gestão das imagens neste projeto foi feita através do serviço **Amazon S3**. 
 
 ### **Google App Engine** 
-
 ![LogoAestudio](https://scontent.fopo3-2.fna.fbcdn.net/v/t1.6435-9/71286345_1216414178532088_19506946889482240_n.png?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=ngkOwX67PNAAX9dc8NV&_nc_ht=scontent.fopo3-2.fna&oh=00_AT_dNLEpq8atc7IhH26yY48_l7jhrA_63xqVF5fQrVycFw&oe=6266960E)
 **Caso de estudo de Google App Engine - Barilla** 
 
