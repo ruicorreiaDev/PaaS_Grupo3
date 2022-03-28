@@ -34,7 +34,7 @@ Algumas aplicações envolvidas neste projeto foram:
 
 **Resultados** 
 
-Durante 48 horas: 
+- Durante 48 horas: 
 - 4,6 milhões de visualizações; 
 - Cerca de 1 milhão de visitas; 
 - Milhares de encomendas e ainda mais de receitas. 
