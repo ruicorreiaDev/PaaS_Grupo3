@@ -33,7 +33,6 @@ Algumas aplicações envolvidas neste projeto foram:
 - Print schedulling. 
 
 **Resultados** 
-
 - Durante 48 horas: 
 - 4,6 milhões de visualizações; 
 - Cerca de 1 milhão de visitas; 
