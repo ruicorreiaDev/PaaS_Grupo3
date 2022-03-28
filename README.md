@@ -8,6 +8,7 @@ Aplicações implantadas na nuvem necessitam obrigatoriamente de poder de comput
 De forma genérica o workflow  do Elastic Beanstalk está dividido em quatro etapas. A primeira passa pela criação da aplicação seguida do seu upload para o serviço da AWS. Após isso, o ambiente de execução será personalizado e lançado automaticamente, por último teremos acesso à consola que permite a gestão do ambiente criado através de várias ferramentas de controlo e configuração. Podemos nesta última fase fazer updates à aplicação como optar qual versão da mesma queremos executar.   
 
 ![workflow](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/images/clearbox-flow-00.png)
+Figura 1 - Esquema do workflow do AWS Elastic Beanstalk
 
 Para chegar a este objetivo o AWS Elastic Beanstalk recorre a serviços já disponibilizados pela AWS, destacando o **Amazon EC2, Elastic Load Balancing, Auto Scaling, Amazon S3, Amazon RDS e Amazon SNS**, criando o ambiente adequado para executar a aplicação. Existe sempre a possibilidade de adquirir serviços adicionais, personalizando o ambiente de acordo com as pretensões de cada cliente. 
 
