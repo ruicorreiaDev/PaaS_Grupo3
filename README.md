@@ -31,18 +31,18 @@ Com uma perspetiva geral do funcionamento e finalidade do serviço Elastic Beans
 
 **Prós** 
 
-**Fácil acesso** - É a forma mais rápida e simples de implementar uma solução de ambiente para uma aplicação na AWS; 
+- **Fácil acesso** - É a forma mais rápida e simples de implementar uma solução de ambiente para uma aplicação na AWS; 
 
-**Custo** - Não existe custo adicional pelo uso do serviço; 
+- **Custo** - Não existe custo adicional pelo uso do serviço; 
 
-**Flexibilidade** - Permite a personalização manual de cada ferramenta; 
+- **Flexibilidade** - Permite a personalização manual de cada ferramenta; 
 
-**Produtividade** - Gestão da infraestrutura automatizada, permite poupança de tempo para o desenvolvimento da aplicação. 
+- **Produtividade** - Gestão da infraestrutura automatizada, permite poupança de tempo para o desenvolvimento da aplicação. 
 
 **Contras** 
 
-**Difícil diagnóstico de problemas** – Em caso de alguma falha no serviço, sendo ele gerido automaticamente, torna mais complicado a tarefa da procura pela origem do problema;  
+- **Difícil diagnóstico de problemas** – Em caso de alguma falha no serviço, sendo ele gerido automaticamente, torna mais complicado a tarefa da procura pela origem do problema;  
 
-**Updates automáticos** - Embora possa aparentar ser uma vantagem e na maioria dos casos assim o é, noutros, os updates automáticos podem causar problemas na execução da aplicação; 
+- **Updates automáticos** - Embora possa aparentar ser uma vantagem e na maioria dos casos assim o é, noutros, os updates automáticos podem causar problemas na execução da aplicação; 
 
-**Falta de controlo detalhado** - Apesar das possibilidades pré-definidas serem vastas, nem sempre são suficientes para todos os casos de uso.
+- **Falta de controlo detalhado** - Apesar das possibilidades pré-definidas serem vastas, nem sempre são suficientes para todos os casos de uso.
