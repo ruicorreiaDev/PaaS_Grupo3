@@ -26,3 +26,23 @@ Após o ambiente estar criado e ativo, o acesso à consola do AWS Elastic Beanst
 - **Eventos** – Mostra informações ou mensagens de erro dos serviços que estejam a ser utilizados no ambiente; 
 
 - **Tags** - Permitem categorizar os recursos da AWS de diferentes formas (por finalidade, por utilizador ou por ambiente), facilitando assim a sua rápida identificação. 
+
+Com uma perspetiva geral do funcionamento e finalidade do serviço Elastic Beanstalk é possível fazer uma análise dos prós e contras. 
+
+**Prós** 
+
+**Fácil acesso** - É a forma mais rápida e simples de implementar uma solução de ambiente para uma aplicação na AWS; 
+
+**Custo** - Não existe custo adicional pelo uso do serviço; 
+
+**Flexibilidade** - Permite a personalização manual de cada ferramenta; 
+
+**Produtividade** - Gestão da infraestrutura automatizada, permite poupança de tempo para o desenvolvimento da aplicação. 
+
+**Contras** 
+
+**Difícil diagnóstico de problemas** – Em caso de alguma falha no serviço, sendo ele gerido automaticamente, torna mais complicado a tarefa da procura pela origem do problema;  
+
+**Updates automáticos** - Embora possa aparentar ser uma vantagem e na maioria dos casos assim o é, noutros, os updates automáticos podem causar problemas na execução da aplicação; 
+
+**Falta de controlo detalhado** - Apesar das possibilidades pré-definidas serem vastas, nem sempre são suficientes para todos os casos de uso.
