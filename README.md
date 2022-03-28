@@ -6,12 +6,8 @@
 ### **Caso de estudo de Heroku – AE Studio**
 
 **Circunstâncias**<br/>
-AE Studio é uma empresa sedeada em Los Angeles que opera na área do 
-merchandise personalizado de celebridades. 
-A plataforma interativa de merchandize permite que fãs de “Vencedores de Grammys” 
-personalizem as suas próprias t-shirts. Para isso, são combinadas aplicações de personalização "Best Apps", 
-impressão e envio. Graças a esta plataforma, desenvolvida e gerida com recurso a  Heroku, são garantidas 
-Confiabilidade e Escalabilidade ao site o que permite dar resposta a milhões de utilizadores num período de dois dias. 
+AE Studio é uma empresa sedeada em Los Angeles que opera na área do merchandise personalizado de celebridades. 
+A plataforma interativa de merchandize permite que fãs de “Vencedores de Grammys” personalizem as suas próprias t-shirts. Para isso, são combinadas aplicações de personalização "Best Apps", impressão e envio. Graças a esta plataforma, desenvolvida e gerida com recurso a  Heroku, são garantidas Confiabilidade e Escalabilidade ao site o que permite dar resposta a milhões de utilizadores num período de dois dias. 
 
 **Desafio**
 Um músico muito famoso decide lançar um novo projeto e pretende acompanhar o lançamento com 
