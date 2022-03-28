@@ -1,6 +1,7 @@
 # **PaaS - Quase Tudo Sobre Amazon Elastic Beanstalk**
 
-# **Resunmo**
+# **Resumo**
+
 
 ## **Casos de Estudo**
 
@@ -38,3 +39,20 @@ como também e reduzir os recursos e custos nos períodos de menor procura.
 Este processo resultou num enorme sucesso para a AE Studio, 
 para os seus clientes Best Apps e também para a celebridade parceira. 
 A título de curiosidade, a gestão das imagens neste projeto foi feita através do serviço **Amazon S3**. 
+
+### **Google App Engine** 
+
+**Caso de estudo de Google App Engine - Barilla** 
+
+**Circunstâncias**<br/> 
+Barilla é uma empresa italiana fundada em 1877 por Pietro Barilla, que opera na área da indústria alimentar e é conhecida pela sua pasta. Em Itália, existem seis grandes unidades com cerca de 8 000 pessoas. Uma dessas unidades situa-se em Cremona e tem uma linha de produção com mais de 1 km de comprimento. O sucesso da Barilla reside muito sobre a eficiência das linhas de produção sendo este o palco dos principais desafios. 
+
+**Desafio**<br/> 
+O funcionamento da linha de produção é feito por três turnos rotativos sendo cada turno composto por três setores: trabalhadores de linha, chefe de turno e chefe de manutenção. Convencionalmente, cada setor possui um caderno onde são registadas as ocorrências através de anotações escritas. A informação circula depois entre setores e entre turnos pelo que não é difícil perceber o desafio existente - comunicação deficiente. 
+
+**Estratégia**  
+Para ajudar a resolver este desafio, a Barilla trabalhou em conjunto com a Injenia, uma empresa italiana de Tecnologias de Informação, para desenvolver uma aplicação que permitisse um sistema de mensagens prático, funcional, com possibilidade de pesquisa e para uma única versão das ocorrências. Para tal, foi usado o Google App Engine para implementar ferramentas do Google Workspace (Google Cloud SQL, Google Drive, Google Meet). 
+
+**Resultados** 
+*“As pessoas são sociáveis e, quando existe uma comunidade, elas começam a partilhar conhecimento e know-how. CollaborAction é um ótimo exemplo de como a colaboração social acrescenta valor a um negócio.”* Alessandra Ardriozzoia, Digital Engagement Senior Manager na Barilla <br/>  
+No final de 2018, CollaborAction já estava implementada em 18 unidades da Barilla em todo o mundo, servindo cerca de 2700 colaboradores. Com isso a Barilla havia já recolhido mais de 50 000 posts entre os quais 20 000 fotografias e vídeos. A sua implementação em cada nova unidade demora cerca de 15 dias e o resultado está à vista e “não só aumentou a eficiência dos processos de manutenção, como também aumentou o conhecimento e compreensão que cada colaborador tem sobre o seu desempenho.” 
