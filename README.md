@@ -27,20 +27,20 @@ lidar com a grande escala como comenta Ed Chen, Partner e Head Scientist, “We 
 how sharp the traffic curve would be. Where Heroku really shines is that we didn’t 
 have to worry about scalability, we could just focus on building the best product”. 
 Algumas aplicações envolvidas neste projeto foram: 
-.Front-end web app; 
-.Web server; 
-.Job queue and order processing; 
-.Print schedulling. 
+- Front-end web app; 
+- Web server; 
+- Job queue and order processing; 
+- Print schedulling. 
 
 **Resultados** 
+
 Durante 48 horas: 
-.4,6 milhões de visualizações; 
-.Cerca de 1 milhão de visitas; 
-.Milhares de encomendas e ainda mais de receitas. 
+- 4,6 milhões de visualizações; 
+- Cerca de 1 milhão de visitas; 
+- Milhares de encomendas e ainda mais de receitas. 
 Durante o evento a equipa da AE Studio esteve atenta à performance da aplicação e conseguiu,
 por meio do rápido escalonamento, não só dar resposta aos picos de tráfego 
 como também e reduzir os recursos e custos nos períodos de menor procura. 
 Este processo resultou num enorme sucesso para a AE Studio, 
 para os seus clientes Best Apps e também para a celebridade parceira. 
-
 A título de curiosidade, a gestão das imagens neste projeto foi feita através do serviço **Amazon S3**. 
