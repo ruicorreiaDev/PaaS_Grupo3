@@ -28,8 +28,8 @@ Algumas aplicações envolvidas neste projeto foram:
 - Job queue and order processing; 
 - Print schedulling. 
 
-**Resultados**<br/> 
-Durante 48 horas: 
+**Resultados**
+Durante 48 horas:<br/> 
 - 4,6 milhões de visualizações; 
 - Cerca de 1 milhão de visitas; 
 - Milhares de encomendas e ainda mais de receitas. 
