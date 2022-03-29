@@ -260,10 +260,10 @@ O desenvolvimento deste documento permitiu uma melhor compreensão do ambiente d
 
 ## Referências
 
-AWS. (s.d.). Obtido de https://aws.amazon.com/pt/?nc2=h_lg 
-DevelopIntelligence. (s.d.). Obtido de https://www.developintelligence.com/blog/2017/04/aws-elastic-beanstalk-use/ 
-Faria, R., Marques, B., & Reis, R. (s.d.). PaaS - Apontamentos disponibilizados na plataforma Moodle.
-Google Cloud. (s.d.). Obtido de https://cloud.google.com/customers/barilla 
-Google Cloud. (s.d.). Obtido de https://cloud.google.com/customers/barilla 
-Heroku. (s.d.). Obtido de https://www.heroku.com/customers/aestudio
-magenest. (s.d.). Obtido de https://magenest.com/en/aws-iaas-paas-saas/ 
+AWS. (s.d.). Obtido de https://aws.amazon.com/pt/?nc2=h_lg <br/>
+DevelopIntelligence. (s.d.). Obtido de https://www.developintelligence.com/blog/2017/04/aws-elastic-beanstalk-use/ <br/>
+Faria, R., Marques, B., & Reis, R. (s.d.). PaaS - Apontamentos disponibilizados na plataforma Moodle <br/>
+Google Cloud. (s.d.). Obtido de https://cloud.google.com/customers/barilla <br/>
+Google Cloud. (s.d.). Obtido de https://cloud.google.com/customers/barilla <br/>
+Heroku. (s.d.). Obtido de https://www.heroku.com/customers/aestudio <br/>
+magenest. (s.d.). Obtido de https://magenest.com/en/aws-iaas-paas-saas/ <br/>
