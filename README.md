@@ -1,6 +1,6 @@
 # **PaaS - Quase Tudo Sobre Amazon Elastic Beanstalk**
 **Por Artur Poças, Daniel Silva e Rui Correia**
-# **Resumo**<br/>
+## **Resumo**<br/>
 Um dos conceitos relacionados com serviços de computação na nuvem é PaaS (Platform as a Service), que normalmente de situa entre o IaaS (Infrastructure as a Service) e o SaaS (Software as a Service). <br/> É possível definir PaaS como uma categoria de serviços de computação na nuvem que fornece uma plataforma para desenvolver, implementar e executar aplicações, sem o custo e complexidade de implantação e gestão das infraestruturas necessárias. Este serviço destina-se, essencialmente, a programadores, e nele encontramos nomes como Heroku, Google App Engine ou Amazon Elastic Beanstalk. <br/> Através de plataformas como as já mencionadas, os programadores acedem a um ambiente onde estão combinados vários recursos que servem para criar aplicações e, assim, ajudar as empresas a dar resposta aos diversos desafios do dia a dia.
 ![PaaSEstrutura](https://github.com/ruicorreiaDev/PaaS_Grupo3/blob/Artur/paas-platform-as-a-service.png)
 ## **Introdução** <br/> 
@@ -221,3 +221,7 @@ Para dar uma noção duma situação real de como configurar o serviço AWS Elas
 ![23](https://github.com/ruicorreiaDev/PaaS_Grupo3/blob/main/Configura%C3%A7%C3%A3o%20AWS%20Elastic%20Beanstalk/config22.png)
 
 ![24](https://github.com/ruicorreiaDev/PaaS_Grupo3/blob/main/Configura%C3%A7%C3%A3o%20AWS%20Elastic%20Beanstalk/config23.png)
+
+## Conclusão
+O desenvolvimento deste documento permitiu uma melhor compreensão do ambiente de PaaS (Platform as a Service). Para além da análise dos casos de estudo de outras plataformas, o exemplo do Amazon Elastic Beanstalk permitiu perceber melhor o conceito e a funcionalidade do serviço.
+Naturalmente, estes serviços surgem da necessidade de responder a desafios que existem em várias frentes onde atuam as Tecnologias de Informação e, como tal, a análise de exemplos de implementação são uma grande ajuda para entender melhor o assunto. Assim, o caso de estudo da Prezi enquanto aplicação criada e mantida com recurso ao Amazon Elastic Beanstalk, elucida-nos quando às funcionalidades e vantagens deste na gestão dos serviços de infraestruturas da AWS. 
