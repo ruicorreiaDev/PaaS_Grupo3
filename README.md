@@ -259,3 +259,11 @@ Para dar uma noção duma situação real de como configurar o serviço AWS Elas
 O desenvolvimento deste documento permitiu uma melhor compreensão do ambiente de PaaS (Platform as a Service). Para além da análise dos casos de estudo de outras plataformas, o exemplo do Amazon Elastic Beanstalk permitiu perceber melhor o conceito e a funcionalidade do serviço. <br/> Naturalmente, estes serviços surgem da necessidade de responder a desafios que existem em várias frentes onde atuam as Tecnologias de Informação e, como tal, a análise de exemplos de implementação são uma grande ajuda para entender melhor o assunto. Assim, o caso de estudo da Prezi enquanto aplicação criada e mantida com recurso ao Amazon Elastic Beanstalk, elucida-nos quando às funcionalidades e vantagens deste na gestão dos serviços de infraestruturas da AWS.
 
 ## Referências
+
+AWS. (s.d.). Obtido de https://aws.amazon.com/pt/?nc2=h_lg 
+DevelopIntelligence. (s.d.). Obtido de https://www.developintelligence.com/blog/2017/04/aws-elastic-beanstalk-use/ 
+Faria, R., Marques, B., & Reis, R. (s.d.). PaaS - Apontamentos disponibilizados na plataforma Moodle.
+Google Cloud. (s.d.). Obtido de https://cloud.google.com/customers/barilla 
+Google Cloud. (s.d.). Obtido de https://cloud.google.com/customers/barilla 
+Heroku. (s.d.). Obtido de https://www.heroku.com/customers/aestudio
+magenest. (s.d.). Obtido de https://magenest.com/en/aws-iaas-paas-saas/ 
