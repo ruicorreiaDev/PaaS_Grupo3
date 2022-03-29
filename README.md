@@ -44,7 +44,8 @@ para os seus clientes Best Apps e também para a celebridade parceira.
 A título de curiosidade, a gestão das imagens neste projeto foi feita através do serviço **Amazon S3**. 
 
 
-![LogoAestudio](https://futurebrandscore.com/uploads/case-studies/_heroImage/Barilla_Range.jpg) <br/> ## **Caso de estudo de Google App Engine - Barilla** 
+![LogoAestudio](https://futurebrandscore.com/uploads/case-studies/_heroImage/Barilla_Range.jpg)
+### **Caso de estudo de Google App Engine - Barilla** 
 
 **Circunstâncias**<br/> Barilla é uma empresa italiana fundada em 1877 por Pietro Barilla, que opera na área da indústria alimentar e é conhecida pela sua pasta. Em Itália, existem seis grandes unidades com cerca de 8 000 pessoas. Uma dessas unidades situa-se em Cremona e tem uma linha de produção com mais de 1 km de comprimento. O sucesso da Barilla reside muito sobre a eficiência das linhas de produção sendo este o palco dos principais desafios. 
 
