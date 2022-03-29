@@ -6,7 +6,7 @@ Um dos conceitos relacionados com serviços de computação na nuvem é PaaS (Pl
 ## **Introdução** <br/> 
 Este documento serve como introdução ao conceito de PaaS (Platfrom as a Service). Para além das definições que encontramos no resumo, uma forma de melhor compreender o conceito passa por analisar exemplos práticos de implementação de soluções através do uso de plataformas. Assim, começamos por apresentar dois casos de estudo: um para a plataforma Heroku e outro para a plataforma Google App Engine. <br/> Dentro do conceito de PaaS, encontramos o Amazon Elastic Beanstalk, que é o foco principal deste documento. Como tal, o serviço da AWS é aqui apresentado através de definições, de um guia de configuração passo a passo e de um caso de estudo - Prezi. 
 
-## **Casos de Estudo**
+## **Casos de Estudo PaaS**
 
 ![LogoAEStudio](https://scontent.fopo3-2.fna.fbcdn.net/v/t1.6435-9/71286345_1216414178532088_19506946889482240_n.png?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=ngkOwX67PNAAX9dc8NV&_nc_ht=scontent.fopo3-2.fna&oh=00_AT_dNLEpq8atc7IhH26yY48_l7jhrA_63xqVF5fQrVycFw&oe=6266960E)
 ### **Caso de estudo de Heroku – AE Studio**
@@ -140,7 +140,7 @@ Talvez mais importante, a AWS ajudou a Prezi a cumprir os seus objetivos de se t
 
 Maior acesso a dados também permitiu à Prezi reter clientes e identificar novas oportunidades de negócio. Por exemplo, gestores de produto agora compreendem melhor o que utilizadores bem-sucedidos têm em comum. Da mesma forma, as equipas de venda e suporte conseguem agora identificar clientes usando apenas uma pequena percentagem de licenças atribuídas para que possam prestar apoio na escolha adequada. Iniciativas como estas estão a melhorar a satisfação dos clientes e estimular o crescimento da receita a longo prazo.
 
-## Guia Passo a Passo 
+## Tutorial AWS Elastic Beanstalk 
 
 Para dar uma noção duma situação real de como configurar o serviço AWS Elastic Beanstalk, recorremos a um método passo-a-passo que explicará como ativar uma aplicação web usando esta plataforma. 
 
