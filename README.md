@@ -12,7 +12,7 @@ Para dar uma noção duma situação real de como configurar o serviço AWS Elas
 ![2](https://github.com/ruicorreiaDev/PaaS_Grupo3/blob/main/Configura%C3%A7%C3%A3o%20AWS%20Elastic%20Beanstalk/config2.png)
 
 
-**Passo 3:** seguidamente, escolhemos o tipo de ambiente em que iremos operar, ou seja, entre um "web server" ou um "worker". Seleccionamos neste caso a opção "web server".
+**Passo 3:** em seguida, escolhemos o tipo de ambiente em que iremos operar, ou seja, entre um "web server" ou um "worker". Seleccionamos neste caso a opção "web server".
 
 ![3](https://github.com/ruicorreiaDev/PaaS_Grupo3/blob/main/Configura%C3%A7%C3%A3o%20AWS%20Elastic%20Beanstalk/config3.png)
 
