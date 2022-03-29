@@ -1,5 +1,7 @@
 # PaaS_Grupo3
 
+## Guia Passo a Passo 
+
 Para dar uma noção duma situação real de como configurar o serviço AWS Elastic Beanstalk, recorremos a um método passo-a-passo que explicará como ativar uma aplicação web usando esta plataforma. 
 
 **Passo 1:** partindo do princípio que temos conta criada na Amazon AWS, acedemos à página de criação de uma nova aplicação usando o serviço AWS Elastic Beanstalk, como é possível ver na figura abaixo.
