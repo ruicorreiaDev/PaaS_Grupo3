@@ -109,15 +109,15 @@ Com uma perspetiva geral do funcionamento e finalidade do serviço Elastic Beans
 
 ### Caso de Estudo – Prezi 
 
-**Circunstâncias**
+**Circunstâncias**<br/>
 Fundada em 2009, Prezi é uma empresa que desenvolve software de apresentações baseado em computação na nuvem. A sua missão é reinventar o método de criar apresentações ao oferecer, aos utilizadores, as ferramentas necessárias para organizar claramente as ideias pretendidas e apresentá-las da forma mais cativante e interativa possível.
 
-**Desafio**
+**Desafio**<br/>
 Para ser capaz de acompanhar o crescimento acentuado, a Prezi precisava de uma plataforma em cloud, com grande capacidade de escalabilidade e automação, que hospedasse o seu software como um serviço. Era crítico, também, que a plataforma fosse flexível, intuitiva e fácil de gerir, para que os developers pudessem rapidamente criar novas funcionalidades para os clientes. Além do mais, a empresa precisava de uma plataforma cloud capaz de oferecer a maior confiabilidade possível, que servisse os mais de 1 milhão de novos clientes que aderem ao Prezi por mês.
 
 Os trabalhadores da Prezi também necessitavam de uma maneira rápida de analisar e visualizar dados para que pudessem melhorar a oferta dos seus serviços. Contudo, quando os trabalhadores precisavam de informação, era-lhes exigido contactar com a equipa de dados, que por sua vez escreviam código específico para cada caso, movendo manualmente os dados para uma tabela de forma a fazer análise. Com tantos pedidos a surgir de diferentes partes da empresa, a equipa de dados normalmente acumulava serviço, demorando por vezes dias a dar resposta.
 
-**Estratégia (Porquê AWS?)**
+**Estratégia (Porquê AWS?)**<br/>
 Nos primeiros anos de negócio, a Prezi hospedava as suas ferramentas de apresentação interativas numa plataforma gerida em cloud, com muitos dos seus serviços desenvolvidos on-premises. A organização eventualmente começou a migrar os seus SaaS para a Amazon Web Services (AWS) em 2012 por causa da alta escalabilidade da plataforma.
 
 A Prezi foi também atraída pela AWS por causa do serviço Amazon Redshift, uma solução de armazenamento de dados que permite a análise de uma forma simples e com elevado custo-benefício. A empresa pretendia que todos os empregados fossem capazes de aceder a dados sem terem de esperar pela ajuda da equipa especializada em dados. Além do mais a Prezi queria tornar simples o processo de visualização de dados para que fosse possível, rapidamente, detetar tendências e ajustar os seus produtos com base no que é procurado pelos clientes.
@@ -130,7 +130,7 @@ Adicionalmente, a Prezi moveu dois dos seus mais importantes serviços de back-e
 
 Num futuro próximo, a empresa planeia adicionar AWS Key Management Service (Amazon KMS) para encriptar dados e proteger a segurança das suas chaves (de encriptação). E por fim, continuará a avaliar novos serviços oferecidos pela AWS com o objetivo de substituir muitas das soluções criadas in-house.
 
-**Resultados**
+**Resultados**<br/>
 Ao migrar para AWS, a Prezi obteve uma plataforma altamente escalável e automatizada que está a ajudar a acompanhar o passo da empresa com o seu crescimento acelerado. Além do mais, o ambiente user-friendly dos developers, permitiu-lhes avançar rapidamente em ajustes, aumentando a sua produtividade, ao mesmo tempo que tornam simples a visualização de informação que precisam.
 
 AWS possibilitou também à equipa de desenvolvimento acelerar a criação de produto. Usando APIs da Amazon, os developers da Prezi têm a documentação de que precisam para começar e imensa flexibilidade para personalizar soluções. Ao usarem uma arquitetura de microsserviços em combinação com AWS, os developers podem trabalhar em tarefas isoladas sem a proecupação de duplicarem esforços. Capacidades com estas permitem aos programadores Prezi apresentar novos serviços, às vezes, em apenas 1 ou 2 dias, comparando com as semanas ou meses que os ocupavam no passado, ao terem de trabalhar sobre um enorme código base trabalhado por todos (criando a possibilidade de conflitos).
