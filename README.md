@@ -108,8 +108,7 @@ Com uma perspetiva geral do funcionamento e finalidade do serviço Elastic Beans
 - **Falta de controlo detalhado** - Apesar das possibilidades pré-definidas serem vastas, nem sempre são suficientes para todos os casos de uso.
 
 ![Logoprezi](https://assets.prezicdn.net/assets-versioned/coverservice-versioned/2972-da8bc85/common/img/prezi-logo-for-share.png)
-
-### Caso de Estudo – Prezi 
+### Caso de Estudo – Prezi
 
 **Circunstâncias**<br/>
 Fundada em 2009, Prezi é uma empresa que desenvolve software de apresentações baseado em computação na nuvem. A sua missão é reinventar o método de criar apresentações ao oferecer, aos utilizadores, as ferramentas necessárias para organizar claramente as ideias pretendidas e apresentá-las da forma mais cativante e interativa possível.
