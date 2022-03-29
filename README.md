@@ -264,6 +264,6 @@ AWS. (s.d.). Obtido de https://aws.amazon.com/pt/?nc2=h_lg <br/>
 DevelopIntelligence. (s.d.). Obtido de https://www.developintelligence.com/blog/2017/04/aws-elastic-beanstalk-use/ <br/>
 Faria, R., Marques, B., & Reis, R. (s.d.). PaaS - Apontamentos disponibilizados na plataforma Moodle <br/>
 Google Cloud. (s.d.). Obtido de https://cloud.google.com/customers/barilla <br/>
-Google Cloud. (s.d.). Obtido de https://cloud.google.com/customers/barilla <br/>
 Heroku. (s.d.). Obtido de https://www.heroku.com/customers/aestudio <br/>
+Just After Midnight. (s.d). Obtido de https://www.justaftermidnight247.com/managed-cloud-hosting/managed-cloud-services/aws/ <br/>
 magenest. (s.d.). Obtido de https://magenest.com/en/aws-iaas-paas-saas/ <br/>
